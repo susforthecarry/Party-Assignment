@@ -1,0 +1,146 @@
+body{
+    margin-top: 0%;
+}
+html{
+    margin-top: 0;
+    padding-top: 0%;
+
+}
+:root {
+    --bs-gray-900: black;
+    --bs-dark: black;
+    margin-top: 0;
+    padding-top: 0%;
+}
+#Header{
+    background-image: linear-gradient(rgba(238, 9, 9, 0.5),rgba(250, 3, 3, 0.7)),url("/Images/pexels-wendywei-1190298.jpg ");
+    min-height: 75vh;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin: 0%;
+    padding: 0%;
+   
+
+}
+body{
+    position: relative;
+}
+.content{
+    transform: translate(-50%, -50%);
+}
+.content h1{
+    font-weight:600;
+    font-style: unset;
+}
+.content p{
+    font-weight:600;
+    font-style: unset;
+}
+
+#Header .bg-body-tertiary {
+    background-color: transparent!important;
+
+}
+.navbar{
+    --bs-navbar-toggler-border-color:none;
+    --bs-navbar-hover-color: none;
+    --bs-navbar-disabled-color: none;
+     --bs-navbar-active-color: none;
+}
+.navbar-toggler:focus {
+    text-decoration: none;
+    outline: none;
+    box-shadow: none;
+}
+:root{
+    --bs-gray-900: black;
+--bs-dark: black;
+}
+
+#Header h1{
+    font-size: 65px;
+}
+
+#Header .openB{
+    font-size: small;
+    color: #CCCCCC;
+    font-weight: 100;
+    cursor: pointer;
+}
+.iconscc:hover{
+    background-color:red;
+    color: #ffffff;
+    transition: 2ms;
+
+
+}
+
+
+.fwasl{
+    background-color: white;
+    padding: 20px;
+
+    
+}
+.fa-bars{
+    cursor: pointer;
+}
+h2 {
+    cursor: pointer;
+}
+.icon{
+    /* background-color: aqua; */
+    position: absolute;
+    top: 0%;
+    left: 0;
+    height: 100%;
+    width: 10%;
+    background-color: #000000;
+    z-index: 1;
+
+}
+#Header i{
+    top: 50%;
+    left: 2%;
+}
+#Header .openB{
+    top: 49.5%;
+    left: 4%;
+}
+.sec2 h2{
+    background-color: #E68285;
+}
+.sec2 p{
+    background-color: #CCCCCC;
+}
+.offcanvas-backdrop.show {
+    opacity:0;
+}
+/* end of header section  */
+
+.center{
+    background-image:linear-gradient(rgba(219, 19, 19, 0.202),rgba(221, 62, 62, 0.476)),url("/Images/pexels-wendywei-1190298.jpg");
+    height: 20vw;
+
+}
+.navbarContent li a:hover{
+    color: red;
+
+}
+#Duration:hover{
+    color: red !important;
+    
+}
+#Home:hover{
+    color: red !important;
+    
+}
+#Details:hover{
+    color: red !important;
+    
+}
+#Contact:hover{
+    color: red !important;
+    
+}
