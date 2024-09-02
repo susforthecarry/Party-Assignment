@@ -13,7 +13,7 @@ html{
     padding-top: 0%;
 }
 #Header{
-    background-image: linear-gradient(rgba(238, 9, 9, 0.5),rgba(250, 3, 3, 0.7)),url("/Images/pexels-wendywei-1190298.jpg ");
+    background-image: linear-gradient(rgba(238, 9, 9, 0.5),rgba(250, 3, 3, 0.7)),url("../Images/pexels-wendywei-1190298.jpg");
     min-height: 75vh;
     background-size: cover;
     background-position: center;
@@ -120,7 +120,7 @@ h2 {
 /* end of header section  */
 
 .center{
-    background-image:linear-gradient(rgba(219, 19, 19, 0.202),rgba(221, 62, 62, 0.476)),url("/Images/pexels-wendywei-1190298.jpg");
+    background-image:linear-gradient(rgba(219, 19, 19, 0.202),rgba(221, 62, 62, 0.476)),url("../Images/pexels-wendywei-1190298.jpg");
     height: 20vw;
 
 }
